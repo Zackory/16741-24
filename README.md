@@ -2,7 +2,7 @@
 
 ## Course Info
 
-#### [Syllabus](https://docs.google.com/document/d/1Tr95oZmT5WZRNap2erRrcYvEujPS83eF7qL0AfdZVLY/edit?usp=sharing)  
+#### [Syllabus](https://docs.google.com/document/d/18LLbaWV4n5VTQ_BaUNIG60inzvl8auBHWeLrcKfUpIc/edit?usp=sharing)  
 
 **Time**: Monday & Wednesday 11:00 AM - 12:20 PM  
 **Location**: NSH 3002  
