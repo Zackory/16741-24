@@ -26,6 +26,18 @@ You can reach the online version of the textbook [here](https://direct.mit.edu/b
 
 ["Introduction to Modern Robotics: Mechanics, Planning, and Control"](http://hades.mech.northwestern.edu/index.php/LynchAndPark), by Kevin Lynch and Frank Park. Cambridge University Press, 2017.
 
+
+## Schedule (tentative)
+
+| Date | Topic | Notes |
+|---|---|---|
+| **Week 1** <br> Mon, <br> Aug 26 | Introduction |   |
+| **Week 1** <br> Wed, <br> Aug 28 | Let's get you a robot |   |
+| **Week 2** <br> Mon, <br> Sept 2 | Labor Day; No class |   |
+| **Week 2** <br> Wed, <br> Sept 4 | Kinematic Foundations |   |
+
+
+
 ## Course Project
 Each student must do a course project. This project is due by the end of the semester. The project will begin with a proposal, which should be a page or less. It should clearly describe what you intend to do. Students should expect to spend from 20 to 40 hours on the project. Course project reports will be due the 2nd to last week of the semester. The final report will be in IEEE format and should detail your project motivation, methodology, implementation, and results. You will also be given the option to upload a video to accompany your report (optional, but can be very helpful if your work is visual, and most robotics applications are quite visual). Projects may be a small manipulation problem to which you will apply some techniques learned in class, some extension or variation of a technique learned in class, or a review and implementation of a research paper related to the class material.
 
