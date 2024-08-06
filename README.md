@@ -33,8 +33,34 @@ You can reach the online version of the textbook [here](https://direct.mit.edu/b
 |---|---|---|
 | **Week 1** <br> Mon, <br> Aug 26 | Introduction |   |
 | **Week 1** <br> Wed, <br> Aug 28 | Let's get you a robot |   |
-| **Week 2** <br> Mon, <br> Sept 2 | Labor Day; No class |   |
+| **Week 2** <br> Mon, <br> Sept 2 | No class; Labor Day |   |
 | **Week 2** <br> Wed, <br> Sept 4 | Kinematic Foundations |   |
+| **Week 3** <br> Mon, <br> Sept 9 | Spatial Rotation Representations |   |
+| **Week 3** <br> Wed, <br> Sept 11 | Forward and Inverse Kinematics |   |
+| **Week 4** <br> Mon, <br> Sept 16 | Quaternions |   |
+| **Week 4** <br> Wed, <br> Sept 18 | Planar Kinematics |   |
+| **Week 5** <br> Mon, <br> Sept 23 | Spatial Kinematics I - Plucker Coordinates |   |
+| **Week 5** <br> Wed, <br> Sept 25 | Spatial Kinematics II - Screw Coordinates |   |
+| **Week 6** <br> Mon, <br> Sept 30 | Constraint and  Reuleaux's Method |   |
+| **Week 6** <br> Wed, <br> Oct 2 | Representing Constraint |   |
+| **Week 7** <br> Mon, <br> Oct 7 | Pick & Place and Path Planning |   |
+| **Week 7** <br> Wed, <br> Oct 9 | Kinematic Models of Contact |   |
+| **Week 8** <br> Mon, <br> Oct 14 | No class; Fall break |   |
+| **Week 8** <br> Wed, <br> Oct 16 | No class; Fall break |   |
+| **Week 9** <br> Mon, <br> Oct 21 | Manipulation in Clutter |   |
+| **Week 9** <br> Wed, <br> Oct 23 | Mobile Manipulation |   |
+| **Week 10** <br> Mon, <br> Oct 28 | Foundations of Statistics |   |
+| **Week 10** <br> Wed, <br> Oct 30 | Polyhedral Convex Cones |   |
+| **Week 11** <br> Mon, <br> Nov 4 | Friction |   |
+| **Week 11** <br> Wed, <br> Nov 6 | Planar Sliding |   |
+| **Week 12** <br> Mon, <br> Nov 11 | Pushing |   |
+| **Week 12** <br> Wed, <br> Nov 13 | Grasps, Fixtures, Closures |   |
+| **Week 13** <br> Mon, <br> Nov 18 | Force Control |   |
+| **Week 13** <br> Wed, <br> Nov 20 | Open lecture |   |
+| **Week 14** <br> Mon, <br> Nov 25 | Rigid Body Dynamics |   |
+| **Week 14** <br> Wed, <br> Nov 27 | No class; Thanksgiving break |   |
+| **Week 15** <br> Mon, <br> Dec 2 | Dynamics and Frictional Contact; Impact |   |
+| **Week 15** <br> Wed, <br> Dec 4 | Course Project Presentations |   |
 
 
 
