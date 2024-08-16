@@ -15,16 +15,22 @@
 
 Mechanics of Manipulation is a graduate level course that dives into the fundamentals of robotic manipulation. Through this course you will learn the kinematics, statics, and dynamics of robotic manipulators as they interact with the world to accomplish tasks. You will gain experience with the intelligent use of kinematic constraint, gravity, and frictional forces. Additional topics include rigid body mechanics, automatic planning based on mechanics, deformable manipulation, and simulation of dynamic manipulation. Applications of robotic manipulation are drawn from physical human-robot interaction, manufacturing, and other domains.
 
-## Textbook
+## Textbooks
 
 Mechanics of Robotic Manipulation, by Matthew T. Mason. MIT Press, 2001.  
-You can reach the online version of the textbook [here](https://direct.mit.edu/books/book/3869/Mechanics-of-Robotic-Manipulation).  
+[PDF textbook](https://direct.mit.edu/books/book/3869/Mechanics-of-Robotic-Manipulation)  
 [Errata page](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/Errata.txt)
+
+Robotic Manipulation, by Russ Tedrake. 2023.  
+[PDF textbook](https://manipulation.csail.mit.edu/index.html)  
+[Lecture videos](https://youtube.com/playlist?list=PLkx8KyIQkMfWr191lqbN8WfV08j-ui8WX&si=qR_BSYDIyRHOjkw-)
+
+Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C. Park. Cambridge University Press, 2017.  
+[PDF textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)  
+[Lecture videos](https://modernrobotics.northwestern.edu/nu-gm-book-resource/introduction-autoplay/)
 
 ## Additional Resources
 [Toward Robotic Manipulation](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/Mason2018.pdf). Matthew T. Mason. _Annual Review of Control, Robotics, and Autonomous Systems_, 2018.
-
-["Introduction to Modern Robotics: Mechanics, Planning, and Control"](http://hades.mech.northwestern.edu/index.php/LynchAndPark), by Kevin Lynch and Frank Park. Cambridge University Press, 2017.
 
 
 ## Schedule (tentative)
@@ -32,7 +38,7 @@ You can reach the online version of the textbook [here](https://direct.mit.edu/b
 | Date | Topic | Notes |
 |---|---|---|
 | **Week 1** <br> Mon, <br> Aug 26 | Introduction |   |
-| **Week 1** <br> Wed, <br> Aug 28 | Let's get you a robot |   |
+| **Week 1** <br> Wed, <br> Aug 28 | Let's get you a robot | [Modern Robotics, Chapter 11.4](https://modernrobotics.northwestern.edu/nu-gm-book-resource/11-4-motion-control-with-torque-or-force-inputs-part-3-of-3/) <br> [Robotic Manipulation, Chapter 2](https://manipulation.csail.mit.edu/robot.html) <br> [Manipulation Engine](https://github.com/Zackory/mengine/tree/main) |
 | **Week 2** <br> Mon, <br> Sept 2 | No class; Labor Day |   |
 | **Week 2** <br> Wed, <br> Sept 4 | Kinematic Foundations |   |
 | **Week 3** <br> Mon, <br> Sept 9 | Spatial Rotation Representations |   |
@@ -65,7 +71,7 @@ You can reach the online version of the textbook [here](https://direct.mit.edu/b
 
 
 ## Course Project
-Each student must do a course project. This project is due by the end of the semester. The project will begin with a proposal, which should be a page or less. It should clearly describe what you intend to do. Students should expect to spend from 20 to 40 hours on the project. Course project reports will be due the 2nd to last week of the semester. The final report will be in IEEE format and should detail your project motivation, methodology, implementation, and results. You will also be given the option to upload a video to accompany your report (optional, but can be very helpful if your work is visual, and most robotics applications are quite visual). Projects may be a small manipulation problem to which you will apply some techniques learned in class, some extension or variation of a technique learned in class, or a review and implementation of a research paper related to the class material.
+Each student must do a course project. This project is due by the end of the semester. The project will begin with a proposal, which should be a page or less. It should clearly describe what you intend to do. Students should expect to spend from 20 to 40 hours on the project. Course project reports will be due at the end of the semester. The final report will be in IEEE format and should detail your project motivation, methodology, implementation, and results. You will also be given the option to upload a video to accompany your report (optional, but can be very helpful if your work is visual, and most robotics applications are quite visual). Projects may be a small manipulation problem to which you will apply some techniques learned in class, some extension or variation of a technique learned in class, or a review and implementation of a research paper related to the class material.
 
 Experimental projects are encouraged, using any accessible robotic equipment. If you are interested in using a robotic arm but do not have access to one, please contact me. We can get you access to the AI Maker Space on campus, which has several robotic manipulators you can use. Experimental projects can be time-consuming, and if you choose this option the 20-40 hour guideline above does not apply.
 
