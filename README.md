@@ -5,7 +5,7 @@
 #### [Syllabus](https://docs.google.com/document/d/18LLbaWV4n5VTQ_BaUNIG60inzvl8auBHWeLrcKfUpIc/edit?usp=sharing)  
 
 **Time**: Monday & Wednesday 11:00 AM - 12:20 PM  
-**Location**: NSH 3002  
+**Location**: NSH 1305 (previously NSH 3002)  
 **Instructor**: [Zackory Erickson](https://zackory.com)  
 **Office Hours**: Upon request  
 
