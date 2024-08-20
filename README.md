@@ -40,11 +40,11 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 | **Week 1** <br> Mon, <br> Aug 26 | Introduction |   |
 | **Week 1** <br> Wed, <br> Aug 28 | Let's get you a robot | [Modern Robotics, Chapter 11.4](https://modernrobotics.northwestern.edu/nu-gm-book-resource/11-4-motion-control-with-torque-or-force-inputs-part-3-of-3/) <br> [Robotic Manipulation, Chapter 2](https://manipulation.csail.mit.edu/robot.html) <br> [Manipulation Engine](https://github.com/Zackory/mengine/tree/main) |
 | **Week 2** <br> Mon, <br> Sept 2 | No class; Labor Day |   |
-| **Week 2** <br> Wed, <br> Sept 4 | Kinematic Foundations |   |
+| **Week 2** <br> Wed, <br> Sept 4 | Kinematic Foundations | Assignment 1 released |
 | **Week 3** <br> Mon, <br> Sept 9 | Spatial Rotation Representations |   |
 | **Week 3** <br> Wed, <br> Sept 11 | Forward and Inverse Kinematics |   |
 | **Week 4** <br> Mon, <br> Sept 16 | Quaternions |   |
-| **Week 4** <br> Wed, <br> Sept 18 | Planar Kinematics |   |
+| **Week 4** <br> Wed, <br> Sept 18 | Planar Kinematics | Deadline: Assignment 1 <br> Assignment 2 released |
 | **Week 5** <br> Mon, <br> Sept 23 | Spatial Kinematics I - Plucker Coordinates |   |
 | **Week 5** <br> Wed, <br> Sept 25 | Spatial Kinematics II - Screw Coordinates |   |
 | **Week 6** <br> Mon, <br> Sept 30 | Constraint and  Reuleaux's Method |   |
