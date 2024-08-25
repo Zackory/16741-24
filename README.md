@@ -48,25 +48,25 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 | **Week 5** <br> Mon, <br> Sept 23 | Spatial Kinematics I - Plucker Coordinates |   |
 | **Week 5** <br> Wed, <br> Sept 25 | Spatial Kinematics II - Screw Coordinates |   |
 | **Week 6** <br> Mon, <br> Sept 30 | Constraint and  Reuleaux's Method |   |
-| **Week 6** <br> Wed, <br> Oct 2 | Representing Constraint |   |
+| **Week 6** <br> Wed, <br> Oct 2 | Representing Constraint | Deadline: Assignment 2 <br> Assignment 3 released |
 | **Week 7** <br> Mon, <br> Oct 7 | Pick & Place and Path Planning |   |
 | **Week 7** <br> Wed, <br> Oct 9 | Kinematic Models of Contact |   |
 | **Week 8** <br> Mon, <br> Oct 14 | No class; Fall break |   |
 | **Week 8** <br> Wed, <br> Oct 16 | No class; Fall break |   |
 | **Week 9** <br> Mon, <br> Oct 21 | Manipulation in Clutter |   |
-| **Week 9** <br> Wed, <br> Oct 23 | Mobile Manipulation |   |
+| **Week 9** <br> Wed, <br> Oct 23 | Mobile Manipulation | Deadline: Assignment 3 <br> Assignment 4 released |
 | **Week 10** <br> Mon, <br> Oct 28 | Foundations of Statistics |   |
 | **Week 10** <br> Wed, <br> Oct 30 | Polyhedral Convex Cones |   |
 | **Week 11** <br> Mon, <br> Nov 4 | Friction |   |
-| **Week 11** <br> Wed, <br> Nov 6 | Planar Sliding |   |
+| **Week 11** <br> Wed, <br> Nov 6 | Planar Sliding | Deadline: Assignment 4 <br> Assignment 5 released |
 | **Week 12** <br> Mon, <br> Nov 11 | Pushing |   |
 | **Week 12** <br> Wed, <br> Nov 13 | Grasps, Fixtures, Closures |   |
 | **Week 13** <br> Mon, <br> Nov 18 | Force Control |   |
-| **Week 13** <br> Wed, <br> Nov 20 | Open lecture |   |
-| **Week 14** <br> Mon, <br> Nov 25 | Rigid Body Dynamics |   |
+| **Week 13** <br> Wed, <br> Nov 20 | Rigid Body Dynamics | Deadline: Assignment 5 |
+| **Week 14** <br> Mon, <br> Nov 25 | Dynamics and Frictional Contact; Impact |   |
 | **Week 14** <br> Wed, <br> Nov 27 | No class; Thanksgiving break |   |
-| **Week 15** <br> Mon, <br> Dec 2 | Dynamics and Frictional Contact; Impact |   |
-| **Week 15** <br> Wed, <br> Dec 4 | Course Project Presentations |   |
+| **Week 15** <br> Mon, <br> Dec 2 | Course Project Presentations | Deadline (Dec 1): Presentations |
+| **Week 15** <br> Wed, <br> Dec 4 | Course Project Presentations | Deadline: Course project paper |
 
 
 
