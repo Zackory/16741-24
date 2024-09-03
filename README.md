@@ -40,7 +40,7 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 | **Week 1** <br> Mon, <br> Aug 26 | Introduction | [Syllabus](https://docs.google.com/document/d/18LLbaWV4n5VTQ_BaUNIG60inzvl8auBHWeLrcKfUpIc/edit?usp=sharing) <br> Install [Manipulation Engine](https://github.com/Zackory/mengine) |
 | **Week 1** <br> Wed, <br> Aug 28 | Let's get you a robot | [Modern Robotics, Chapter 11.4](https://modernrobotics.northwestern.edu/nu-gm-book-resource/11-4-motion-control-with-torque-or-force-inputs-part-3-of-3/) <br> [Robotic Manipulation, Chapter 2](https://manipulation.csail.mit.edu/robot.html) <br> [Manipulation Engine](https://github.com/Zackory/mengine/tree/main) |
 | **Week 2** <br> Mon, <br> Sept 2 | No class; Labor Day |   |
-| **Week 2** <br> Wed, <br> Sept 4 | Kinematic Foundations | Assignment 1 released |
+| **Week 2** <br> Wed, <br> Sept 4 | Kinematic Foundations | Assignment 1 released <br> [Mechanics of Robotic Manipulation, Chapter 2.1](https://direct.mit.edu/books/monograph/3869/chapter-abstract/162858/Kinematics?redirectedFrom=fulltext) <br> [Modern Robotics, Chapter 2](https://modernrobotics.northwestern.edu/nu-gm-book-resource/2-1-degrees-of-freedom-of-a-rigid-body/#department) |
 | **Week 3** <br> Mon, <br> Sept 9 | Spatial Rotation Representations |   |
 | **Week 3** <br> Wed, <br> Sept 11 | Forward and Inverse Kinematics |   |
 | **Week 4** <br> Mon, <br> Sept 16 | Quaternions |   |
