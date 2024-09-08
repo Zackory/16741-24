@@ -50,7 +50,7 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 | **Week 6** <br> Mon, <br> Sept 30 | Constraint and  Reuleaux's Method |   |
 | **Week 6** <br> Wed, <br> Oct 2 | Representing Constraint | **Deadline: Assignment 2** <br> **Assignment 3 released** |
 | **Week 7** <br> Mon, <br> Oct 7 | Pick & Place and Path Planning |   |
-| **Week 7** <br> Wed, <br> Oct 9 | Kinematic Models of Contact |   |
+| **Week 7** <br> Wed, <br> Oct 9 | Kinematic Models of Contact | **Deadline: Project Proposal**  |
 | **Week 8** <br> Mon, <br> Oct 14 | No class; Fall break |   |
 | **Week 8** <br> Wed, <br> Oct 16 | No class; Fall break |   |
 | **Week 9** <br> Mon, <br> Oct 21 | Manipulation in Clutter |   |
