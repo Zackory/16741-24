@@ -55,7 +55,7 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 | **Week 8** <br> Wed, <br> Oct 16 | No class; Fall break |   |
 | **Week 9** <br> Mon, <br> Oct 21 | Manipulation in Clutter |   |
 | **Week 9** <br> Wed, <br> Oct 23 | Mobile Manipulation | **Deadline: Assignment 3** <br> **Assignment 4 released** |
-| **Week 10** <br> Mon, <br> Oct 28 | Foundations of Statistics |   |
+| **Week 10** <br> Mon, <br> Oct 28 | Foundations of Statics |   |
 | **Week 10** <br> Wed, <br> Oct 30 | Polyhedral Convex Cones |   |
 | **Week 11** <br> Mon, <br> Nov 4 | Friction |   |
 | **Week 11** <br> Wed, <br> Nov 6 | Planar Sliding | **Deadline: Assignment 4** <br> **Assignment 5 released** |
