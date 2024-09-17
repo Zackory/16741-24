@@ -49,8 +49,8 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 | **Week 5** <br> Wed, <br> Sept 25 | Spatial Kinematics II - Screw Coordinates | [Mechanics of Robotic Manipulation, Chapter 2.3](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 3.3](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
 | **Week 6** <br> Mon, <br> Sept 30 | Constraint and  Reuleaux's Method | [Mechanics of Robotic Manipulation, Chapter 2.3](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 2.5](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
 | **Week 6** <br> Wed, <br> Oct 2 | Representing Constraint | **Deadline: Assignment 2** <br> **Assignment 3 released** <br> [Mechanics of Robotic Manipulation, Chapter 3.3](https://direct.mit.edu/books/monograph/3869/chapter/162859/Kinematic-Representation) |
-| **Week 7** <br> Mon, <br> Oct 7 | Pick & Place and Path Planning | [Mechanics of Robotic Manipulation, Chapter 4.1](https://direct.mit.edu/books/monograph/3869/chapter/162860/Kinematic-Manipulation) |
-| **Week 7** <br> Wed, <br> Oct 9 | Kinematic Models of Contact | **Deadline: Project Proposal**  |
+| **Week 7** <br> Mon, <br> Oct 7 | Pick & Place and Path Planning | [Mechanics of Robotic Manipulation, Chapter 4.1](https://direct.mit.edu/books/monograph/3869/chapter/162860/Kinematic-Manipulation) <br> [Robotic Manipulation, Chapter 3](https://manipulation.csail.mit.edu/pick.html) |
+| **Week 7** <br> Wed, <br> Oct 9 | Kinematic Models of Contact | **Deadline: Project Proposal** <br> [Mechanics of Robotic Manipulation, Chapter 4.3](https://direct.mit.edu/books/monograph/3869/chapter/162860/Kinematic-Manipulation) |
 | **Week 8** <br> Mon, <br> Oct 14 | No class; Fall break |   |
 | **Week 8** <br> Wed, <br> Oct 16 | No class; Fall break |   |
 | **Week 9** <br> Mon, <br> Oct 21 | Manipulation in Clutter |   |
