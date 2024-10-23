@@ -54,11 +54,11 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 | **Week 8** <br> Mon, <br> Oct 14 | No class; Fall break |   |
 | **Week 8** <br> Wed, <br> Oct 16 | No class; Fall break |   |
 | **Week 9** <br> Mon, <br> Oct 21 | Manipulation in Clutter |   |
-| **Week 9** <br> Wed, <br> Oct 23 | Mobile Manipulation | **Deadline: Assignment 3** <br> **Assignment 4 released** |
-| **Week 10** <br> Mon, <br> Oct 28 | Foundations of Statics |   |
-| **Week 10** <br> Wed, <br> Oct 30 | Polyhedral Convex Cones |   |
-| **Week 11** <br> Mon, <br> Nov 4 | Friction |   |
-| **Week 11** <br> Wed, <br> Nov 6 | Planar Sliding | **Deadline: Assignment 4** <br> **Assignment 5 released** |
+| **Week 9** <br> Wed, <br> Oct 23 | Foundations of Statics | **Deadline: Assignment 3** <br> **Assignment 4 released** |
+| **Week 10** <br> Mon, <br> Oct 28 | Polyhedral Convex Cones |   |
+| **Week 10** <br> Wed, <br> Oct 30 | Friction |   |
+| **Week 11** <br> Mon, <br> Nov 4 | Planar Sliding |   |
+| **Week 11** <br> Wed, <br> Nov 6 | No class; Prof. Erickson is traveling | **Deadline: Assignment 4** <br> **Assignment 5 released** |
 | **Week 12** <br> Mon, <br> Nov 11 | Pushing |   |
 | **Week 12** <br> Wed, <br> Nov 13 | Grasps, Fixtures, Closures |   |
 | **Week 13** <br> Mon, <br> Nov 18 | Force Control |   |
