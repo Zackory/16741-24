@@ -33,7 +33,7 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 [Toward Robotic Manipulation](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/Mason2018.pdf). Matthew T. Mason. _Annual Review of Control, Robotics, and Autonomous Systems_, 2018.
 
 
-## Schedule (tentative)
+## Schedule
 
 | Date | Topic | Notes |
 |---|---|---|
